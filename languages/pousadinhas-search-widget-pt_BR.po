@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pousadinhas Search Widget\n"
+"POT-Creation-Date: 2015-09-21 01:43-0300\n"
+"PO-Revision-Date: 2015-09-21 01:50-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/raugfer/projects/pousadinhas/wordpress/plugins/"
+"pousadinhas-search-widget\n"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:19
+msgid "Pousadinhas Search Widget"
+msgstr "Widget de Busca do Pousadinhas"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:21
+msgid "Displays the Pousadinhas.com.br online booking search widget."
+msgstr "Mostra o widget de busca e reserva online do Pousadinhas.com.br."
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:134
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:138
+msgid "Destination:"
+msgstr "Destino:"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:144
+msgid "Suggest dates"
+msgstr "Sugerir datas"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:148
+msgid "Coupling:"
+msgstr "Acoplamento:"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:150
+msgid "None"
+msgstr "Nenhum"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:151
+msgid "Northeast"
+msgstr "Canto superior direito"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:152
+msgid "Northwest"
+msgstr "Canto superior esquerdo"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:153
+msgid "Southeast"
+msgstr "Canto inferior direito"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:154
+msgid "Southwest"
+msgstr "Canto inferior esquerdo"
+
+#: /home/raugfer/projects/pousadinhas/wordpress/plugins/pousadinhas-search-widget/pousadinhas-search-widget.php:160
+msgid "Compact"
+msgstr "Compacto"
